@@ -20165,7 +20165,7 @@
 		"@opentelemetry/semantic-conventions": "1.28.0",
 		"@shoelace-style/shoelace": "2.19.1",
 		"@vscode/codicons": "0.0.36",
-		"billboard.js": "3.14.3",
+		"billboard.js": "3.15.1",
 		"https-proxy-agent": "5.0.1",
 		"iconv-lite": "0.6.3",
 		"lit": "3.2.1",
